@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EasyGrader/EasyGrader.iml" filepath="$PROJECT_DIR$/../EasyGrader/EasyGrader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Guitar Hero/Guitar Hero.iml" filepath="$PROJECT_DIR$/../Guitar Hero/Guitar Hero.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hangman.iml" filepath="$PROJECT_DIR$/Hangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nbody/Nbody.iml" filepath="$PROJECT_DIR$/../Nbody/Nbody.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RecursiveGraphics/RecursiveGraphics.iml" filepath="$PROJECT_DIR$/../RecursiveGraphics/RecursiveGraphics.iml" />
     </modules>
   </component>
 </project>
