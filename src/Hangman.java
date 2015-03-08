@@ -125,7 +125,7 @@ public class Hangman {
                 System.out.println("You input too many letters. Please enter a single letter: " + "\n");
                 continue;
             }
-            char chosenLetter = readNext.charAt(0);
+            char chosenLetter =  readNext.charAt(0);
 
             // checks if you haven't guessed this input letter
             if (!guessedLetters.contains(chosenLetter)) {
