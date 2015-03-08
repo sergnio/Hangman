@@ -84,7 +84,7 @@ public class Hangman {
                 break;
             }
         }
-        return playAnswer;
+        return  playAnswer;
     }
 
     // reads in words from txt files, and puts them in ArrayList separated by spaces.
