@@ -29,11 +29,9 @@ public class Hangman {
         }
         underscoredWord.append("_");
 
-        // TESTING REMOVE OR MOVE
-        System.out.println(randomWord);
     }
 
-    // resets everything to play a new game
+    // Resets everything to play a new game
     private static void refresh() {
         underscoredWord = new StringBuilder("");
         remainingTries = 5;
