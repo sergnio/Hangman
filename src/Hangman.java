@@ -196,7 +196,7 @@ public class Hangman {
         }
 
         if (remainingTries == 0) {
-                System.out.println("Game over! RIP in pepperonis m8, i cri everytiem");
+                System.out.println("Game over!");
                 playAgain();
         }
     }
